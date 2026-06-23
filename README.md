@@ -1,92 +1,79 @@
-# Hi there, I'm Gul Sher Khan 👋
+<h1 align="center">Hi 👋, I'm Gul Sher Khan</h1>
+<h3 align="center">AI/ML Developer • Full-Stack Developer • AI Automation Engineer</h3>
 
-### AI/ML Developer | Web Developer | AI Automation Engineer
-
-I recently graduated with a Bachelor's degree in Software Engineering from the University of Lahore. I enjoy building intelligent software systems that combine Artificial Intelligence, Machine Learning, and modern web technologies to solve real-world problems.
-
-Currently, I am actively seeking Software Engineering, AI/ML, and Full-Stack Development internship and entry-level opportunities.
+<p align="center">
+Building intelligent software solutions through AI, automation, and modern web technologies.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.S. Software Engineering Graduate
-* 🤖 Passionate about AI, Machine Learning, and NLP
-* 🌐 Experienced in Full-Stack Web Development
-* ⚡ Building AI Agents and Automation Workflows
-* 🔍 Interested in LLMs, RAG Systems, and Agentic AI
-* 🌱 Continuously learning and exploring emerging technologies
+- 🎓 Software Engineering graduate from the University of Lahore
+- 🔭 Building AI-powered applications and automation workflows
+- 🌱 Exploring Agentic AI, LLMs, and Retrieval-Augmented Generation (RAG)
+- 💡 Passionate about solving real-world problems with AI and full-stack development
+- 👨‍💻 Open to internships and entry-level roles in AI/ML, Software Engineering, and Full-Stack Development
 
 ---
 
 ## 🛠 Tech Stack
 
-### Artificial Intelligence & Machine Learning
+### 🤖 AI / ML / NLP
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-NLP-blue?style=for-the-badge)
 
-Python • Scikit-learn • Transformers • BERT • NLP • Named Entity Recognition • RAG Pipelines • LLM Integration • Groq API
+### 🌐 Full-Stack Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### AI Automation & Agentic Systems
+### ⚡ AI Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
-n8n • Make.com • AI Agents • Workflow Automation • LLM Orchestration
+### 💾 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Web Development
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-React • Flask • REST APIs • JWT Authentication • SQLAlchemy • HTML5 • CSS3 • Tailwind CSS
-
-### Programming Languages
-
-Python • JavaScript • C++ • SQL
-
-### Databases
-
-PostgreSQL • SQLite
-
-### Tools & Platforms
-
-Git • GitHub • VS Code • PyCharm • Jupyter Notebook • Gradio • Railway
-
----
-
-## 📌 Featured Projects
-
-### 🎓 ForeignEdge — AI-Powered Study Abroad Platform
-
-Full-stack platform helping students explore universities, scholarships, accommodation, and relocation resources.
-
-**Tech:** React, Flask, PostgreSQL, JWT, SQLAlchemy, RAG, LLMs
+### 🧑‍💻 Skill Icons
+![My Skills](https://skillicons.dev/icons?i=python,react,flask,js,tailwind,postgres,sqlite,git,github,vscode)
 
 ---
 
-### 🛡 Machine Learning-Based Intrusion Detection System
+## 🌟 Featured Projects
 
-Built and evaluated multiple ML models to classify malicious and normal network traffic using the NSL-KDD dataset.
+### 🎓 ForeignEdge
+AI-powered study abroad platform built with React, Flask, JWT authentication, and PostgreSQL, featuring RAG-based university recommendations.
 
-**Tech:** Python, Scikit-learn, Machine Learning
+### 🏥 Medical Named Entity Recognition
+Fine-tuned BERT model that extracts medical entities (diseases, drugs, symptoms) from clinical text.
 
----
-
-### 🏥 Medical Named Entity Recognition using BERT
-
-Fine-tuned a transformer-based model to automatically identify medical entities from clinical text.
-
-**Tech:** Python, BERT, Transformers, NLP
-
----
+### 🛡 Intrusion Detection System
+Machine learning system that detects malicious network traffic and classifies attack types.
 
 ### 🐾 Smart Pet Care System
+IoT-enabled web application for automated feeding and environmental monitoring.
 
-IoT-based system for automated feeding and real-time environmental monitoring.
-
-**Tech:** Flask, IoT, Scheduling Services
-
----
-
-
-## 🤝 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/gul-sher-khan-0119aa264
-* Email: [glshrrkhan@gmail.com](mailto:glshrrkhan@gmail.com)
+### 🌐 Smart Home Automation (Cisco Packet Tracer)
+Network topology and smart-home automation simulation built and configured in Cisco Packet Tracer.
 
 ---
 
-*"Building intelligent software solutions through AI, automation, and modern web technologies."*
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+---
+
+⭐️ *Open to internships and entry-level opportunities — feel free to reach out!*
