@@ -52,20 +52,20 @@ Building intelligent software solutions through AI, automation, and modern web t
 
 ## 🌟 Featured Projects
 
-### 🎓 ForeignEdge
+### [🎓 ForeignEdge](https://github.com/glshrrkhan/ForeignEdge)
 AI-powered study abroad platform built with React, Flask, JWT authentication, and PostgreSQL, featuring RAG-based university recommendations.
 
-### 🏥 Medical Named Entity Recognition
+### [🏥 Medical Named Entity Recognition](https://github.com/glshrrkhan/Medical_NER-NLP-)
 Fine-tuned BERT model that extracts medical entities (diseases, drugs, symptoms) from clinical text.
 
-### 🛡 Intrusion Detection System
+### [🛡 Intrusion Detection System](https://github.com/glshrrkhan/Intrusion-Detection-System)
 Machine learning system that detects malicious network traffic and classifies attack types.
 
-### 🐾 Smart Pet Care System
+### [🐾 Smart Pet Care System](https://github.com/glshrrkhan/Smart-Pet-Care-System)
 IoT-enabled web application for automated feeding and environmental monitoring.
 
-### 🌐 Smart Home Automation (Cisco Packet Tracer)
-Network topology and smart-home automation simulation built and configured in Cisco Packet Tracer.
+### [🌿 Plant Disease Detection](https://github.com/glshrrkhan/Plant-Disease-Detection)
+Deep learning project comparing a custom CNN against ResNet50 and MobileNetV2 for tomato leaf disease classification, with Grad-CAM interpretability and a Gradio demo.
 
 ---
 
