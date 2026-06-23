@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gul Sher Khan</h1>
-<h3 align="center">AI/ML Developer • Web Developer • AI Automation Engineer</h3>
+<h3 align="center">AI/ML Developer • Full-Stack Developer • AI Automation Engineer</h3>
 
 <p align="center">
 Building intelligent software solutions through AI, automation, and modern web technologies.
@@ -71,7 +71,7 @@ Network topology and smart-home automation simulation built and configured in Ci
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/gul-sher-khan-0119aa264/)] 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gul-sher-khan-0119aa264/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glshrrkhan@gmail.com)
 
 ---
