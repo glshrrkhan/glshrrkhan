@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gul Sher Khan</h1>
-<h3 align="center">AI/ML Developer • Full-Stack Developer • AI Automation Engineer</h3>
+<h3 align="center">AI/ML Developer • Web Developer • AI Automation Engineer</h3>
 
 <p align="center">
 Building intelligent software solutions through AI, automation, and modern web technologies.
