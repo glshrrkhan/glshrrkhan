@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Gul Sher Khan</h1>
 
 <h3 align="center">
