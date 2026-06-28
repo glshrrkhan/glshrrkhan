@@ -2,88 +2,272 @@
 <h1 align="center">Gul Sher Khan</h1>
 
 <h3 align="center">
-AI/ML Engineer • Full-Stack Developer • AI Automation Engineer
+AI/ML Engineer • LLM Engineer • Full-Stack Developer • AI Automation Engineer
 </h3>
 
 <p align="center">
-Building AI-powered applications with Machine Learning, Large Language Models, Retrieval-Augmented Generation (RAG), and modern web technologies.
+Building intelligent software with Machine Learning, Large Language Models, Retrieval-Augmented Generation (RAG), AI Automation, and modern web technologies.
 </p>
 
 <p align="center">
-  <a href="https://github.com/glshrrkhan">
-    <img src="https://komarev.com/ghpvc/?username=glshrrkhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+<a href="https://github.com/glshrrkhan">
+<img src="https://komarev.com/ghpvc/?username=glshrrkhan&label=Profile%20Views&color=0e75b6&style=flat"/>
+</a>
 </p>
 
 ---
 
-## About
+# About
 
-Software Engineering graduate from the **University of Lahore** with a strong interest in Artificial Intelligence, Machine Learning, Large Language Models, and Full-Stack Development.
+I am a Software Engineering graduate from the **University of Lahore** with a strong passion for Artificial Intelligence, Machine Learning, Large Language Models, and intelligent software systems.
 
-I enjoy building AI-powered applications, automation workflows, and intelligent web platforms using modern technologies including **Python, React, Flask, PostgreSQL, and LLMs**. My interests include **Agentic AI, Retrieval-Augmented Generation (RAG), NLP, and AI Automation**.
+My work focuses on building production-ready AI applications by combining modern web development with machine learning, natural language processing, and AI automation. I enjoy designing end-to-end solutions—from data processing and model development to scalable backend APIs, interactive frontends, and cloud deployment.
 
-I am currently seeking **internships** and **entry-level opportunities** in **AI/ML**, **Software Engineering**, and **Full-Stack Development**.
+My areas of interest include:
+
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Natural Language Processing (NLP)
+- AI Automation & Agentic AI
+- Machine Learning & Deep Learning
+- Full-Stack AI Applications
+- Backend API Development
+- Cloud Deployment
+
+I'm actively seeking opportunities where I can contribute to impactful AI products while continuing to grow as an AI Engineer.
 
 ---
 
-## Tech Stack
+# Areas of Expertise
 
-### Languages
+- LLM Engineering
+- Retrieval-Augmented Generation (RAG)
+- AI Application Development
+- NLP & Text Analytics
+- Machine Learning Pipelines
+- Deep Learning
+- AI Automation
+- Backend API Development
+- Full-Stack Development
+- Model Deployment
+
+---
+
+# Tech Stack
+
+## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### AI / Machine Learning
+---
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge)
-![BERT](https://img.shields.io/badge/BERT-NLP-blue?style=for-the-badge)
+## Artificial Intelligence & LLMs
+
+- Llama 3 / 3.1
+- GPT-4
+- Claude
+- Gemini
+- DeepSeek
+
+### Frameworks & Tools
+
+- LangChain
+- Hugging Face
+- Ollama
+- Groq API
+
+### Vector Databases
+
+- FAISS
+- ChromaDB
+- Pinecone
+
+### RAG
+
+- Embeddings
+- Document Chunking
+- Vector Search
+- Semantic Retrieval
+- Knowledge-Based Question Answering
+
+---
+
+## Machine Learning
+
+- Logistic Regression
+- Decision Trees
+- K-Nearest Neighbors (KNN)
+- Naive Bayes
+- Clustering
+
+---
+
+## Deep Learning
+
+- TensorFlow
+- PyTorch
+- Keras
+
+### Models
+
+- CNN
+- RNN
+- LSTM
+- ResNet
+- EfficientNet
+- MobileNet
+- YOLO
+
+---
+
+## Natural Language Processing
+
+- BERT
+- RoBERTa
+- DistilBERT
+- TF-IDF
+- Word2Vec
+- FastText
+- Token Classification
+- Text Classification
+- Sentiment Analysis
+
+---
+
+## Full-Stack Development
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- React
+- Next.js
+- Tailwind CSS
+- JavaScript
 
 ### Backend
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### AI Automation
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,react,flask,js,tailwind,postgres,sqlite,git,github,vscode" />
-</p>
+- Flask
+- REST APIs
+- JWT Authentication
+- OAuth
+- CRUD APIs
+- File Uploads
+- Role-Based Access Control
+- Payment Integration
 
 ---
 
-## Featured Projects
+## Databases
 
-| Project | Description |
-|----------|-------------|
-| **[ForeignEdge](https://github.com/glshrrkhan/ForeignEdge)** | AI-powered study abroad platform built with React, Flask, PostgreSQL, JWT authentication, and Retrieval-Augmented Generation (RAG) for intelligent university recommendations. |
-| **[Medical Named Entity Recognition](https://github.com/glshrrkhan/Medical_NER-NLP-)** | Fine-tuned BERT model for extracting diseases, drugs, and symptoms from clinical text. |
-| **[Intrusion Detection System](https://github.com/glshrrkhan/Intrusion-Detection-System)** | Machine learning model for detecting malicious network traffic and classifying cyber attacks. |
-| **[Plant Disease Detection](https://github.com/glshrrkhan/Plant-Disease-Detection)** | Deep learning comparison of CNN, ResNet50, and MobileNetV2 with Grad-CAM explainability and Gradio deployment. |
-| **[Smart Pet Care System](https://github.com/glshrrkhan/Smart-Pet-Care-System)** | IoT-enabled web application for automated pet feeding and environmental monitoring. |
+- PostgreSQL
+- MongoDB
+- Firebase
+- Supabase
+- SQLite
 
 ---
 
-## GitHub Statistics
+## AI Automation
+
+- n8n
+- Make
+- Gmail Automation
+- WhatsApp Automation
+- Telegram Bots
+- AI Calling Agents
+- Google Sheets Automation
+- Google Drive Integration
+
+---
+
+## Cloud & Deployment
+
+- Railway
+- Render
+- Vercel
+- Docker
+- AWS
+- Microsoft Azure
+
+---
+
+## Development Tools
+
+- Git
+- GitHub
+- VS Code
+- Linux
+- Docker
+- Cisco Packet Tracer
+- Figma
+
+---
+
+# Featured Projects
+
+### ForeignEdge
+
+AI-powered study abroad platform featuring:
+
+- Retrieval-Augmented Generation (RAG)
+- Intelligent university recommendations
+- React + Flask architecture
+- PostgreSQL
+- JWT Authentication
+- AI-powered search
+- Responsive user interface
+
+---
+
+### Medical Named Entity Recognition
+
+Fine-tuned BERT model capable of extracting:
+
+- Diseases
+- Symptoms
+- Drugs
+- Clinical entities
+
+from unstructured medical text.
+
+---
+
+### Plant Disease Detection
+
+Deep learning project comparing
+
+- Custom CNN
+- ResNet50
+- MobileNetV2
+
+including Grad-CAM visualization and Gradio deployment.
+
+---
+
+### Intrusion Detection System
+
+Machine learning based cybersecurity system capable of classifying malicious network traffic using multiple ML algorithms.
+
+---
+
+### Smart Pet Care System
+
+IoT-enabled monitoring platform providing automated feeding, environmental monitoring, and remote management.
+
+---
+
+### Additional Projects
+
+- Hospital Management System (C++)
+- Airline Ticket Management System (Java)
+- Smart Home Automation using Cisco Packet Tracer
+- Cipher Encryption Tool
+
+---
+
+# GitHub Statistics
 
 <p align="center">
 
@@ -107,11 +291,23 @@ I am currently seeking **internships** and **entry-level opportunities** in **AI
 
 ---
 
-## Connect
+# Currently Exploring
+
+- Agentic AI
+- Multi-Agent Systems
+- AI Coding Agents
+- Advanced RAG Architectures
+- LLM Evaluation
+- AI Workflow Automation
+- Production AI Systems
+
+---
+
+# Connect
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/gul-sher-khan-0119aa264/" target="_blank">
+<a href="https://www.linkedin.com/in/gul-sher-khan-0119aa264/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -123,7 +319,5 @@ I am currently seeking **internships** and **entry-level opportunities** in **AI
 
 ---
 
-Building intelligent software through Artificial Intelligence, Machine Learning, and modern web technologies.
-
-Always open to collaborating on impactful projects and exciting opportunities.
+> Building AI-powered products that combine Machine Learning, LLMs, NLP, RAG, Automation, and Full-Stack Development to solve real-world problems.
 ```
