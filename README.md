@@ -2,54 +2,47 @@
 <h1 align="center">Gul Sher Khan</h1>
 
 <h3 align="center">
-AI/ML Engineer • Web Developer • AI Automation Engineer
+AI/ML Engineer • WEB Developer • AI Automation Engineer
 </h3>
 
 <p align="center">
-Building intelligent software with Machine Learning, Large Language Models, Retrieval-Augmented Generation (RAG), AI Automation, and modern web technologies.
+Building intelligent software with Machine Learning, Large Language Models, Retrieval-Augmented Generation (RAG), AI Automation, and modern Full-Stack Development.
 </p>
 
 <p align="center">
 <a href="https://github.com/glshrrkhan">
-<img src="https://komarev.com/ghpvc/?username=glshrrkhan&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=glshrrkhan&label=Profile%20Views&color=0e75b6&style=flat" />
 </a>
 </p>
 
 ---
 
-# About
+# About Me
 
-I am a Software Engineering graduate from the **University of Lahore** with a strong passion for Artificial Intelligence, Machine Learning, Large Language Models, and intelligent software systems.
+I'm a **Software Engineering graduate** from the **University of Lahore** with a passion for building intelligent software using Artificial Intelligence, Machine Learning, Large Language Models, and modern Full-Stack technologies.
 
-My work focuses on building production-ready AI applications by combining modern web development with machine learning, natural language processing, and AI automation. I enjoy designing end-to-end solutions—from data processing and model development to scalable backend APIs, interactive frontends, and cloud deployment.
+I enjoy developing complete AI products—from data preprocessing and model training to backend APIs, responsive web applications, Retrieval-Augmented Generation (RAG) pipelines, and cloud deployment.
 
-My areas of interest include:
+My work spans **Machine Learning, Deep Learning, NLP, AI Automation, LLM Engineering, Backend Development, and Full-Stack AI Applications**. I'm constantly exploring emerging technologies including **Agentic AI**, **Multi-Agent Systems**, and advanced **LLM workflows**.
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Natural Language Processing (NLP)
-- AI Automation & Agentic AI
-- Machine Learning & Deep Learning
-- Full-Stack AI Applications
-- Backend API Development
-- Cloud Deployment
-
-I'm actively seeking opportunities where I can contribute to impactful AI products while continuing to grow as an AI Engineer.
+I'm currently open to **AI/ML**, **Software Engineering**, and **Full-Stack Development** opportunities where I can contribute to impactful products while continuously learning new technologies.
 
 ---
 
 # Areas of Expertise
 
-- LLM Engineering
-- Retrieval-Augmented Generation (RAG)
-- AI Application Development
-- NLP & Text Analytics
-- Machine Learning Pipelines
+- Artificial Intelligence
+- Machine Learning
 - Deep Learning
+- Natural Language Processing
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 - AI Automation
-- Backend API Development
 - Full-Stack Development
-- Model Deployment
+- REST API Development
+- Backend Engineering
+- Cloud Deployment
+- AI Workflow Automation
 
 ---
 
@@ -59,59 +52,64 @@ I'm actively seeking opportunities where I can contribute to impactful AI produc
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-## Artificial Intelligence & LLMs
+## AI & Large Language Models
 
-- Llama 3 / 3.1
-- GPT-4
-- Claude
-- Gemini
-- DeepSeek
+![OpenAI](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama_3-0467DF?style=for-the-badge)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-1D4ED8?style=for-the-badge)
 
-### Frameworks & Tools
+---
 
-- LangChain
-- Hugging Face
-- Ollama
-- Groq API
+## AI Frameworks & RAG
 
-### Vector Databases
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
 
-- FAISS
-- ChromaDB
-- Pinecone
+![FAISS](https://img.shields.io/badge/FAISS-00599C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6A0DAD?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0DBD8B?style=for-the-badge)
 
-### RAG
+**Experience with**
 
 - Embeddings
+- Semantic Search
 - Document Chunking
-- Vector Search
-- Semantic Retrieval
-- Knowledge-Based Question Answering
+- Vector Databases
+- Retrieval-Augmented Generation
+- Knowledge Retrieval Pipelines
 
 ---
 
 ## Machine Learning
 
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Algorithms**
+
 - Logistic Regression
 - Decision Trees
-- K-Nearest Neighbors (KNN)
 - Naive Bayes
+- K-Nearest Neighbors (KNN)
 - Clustering
 
 ---
 
 ## Deep Learning
 
-- TensorFlow
-- PyTorch
-- Keras
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-### Models
+**Models**
 
 - CNN
 - RNN
@@ -125,145 +123,166 @@ I'm actively seeking opportunities where I can contribute to impactful AI produc
 
 ## Natural Language Processing
 
-- BERT
-- RoBERTa
-- DistilBERT
+![BERT](https://img.shields.io/badge/BERT-blue?style=for-the-badge)
+![RoBERTa](https://img.shields.io/badge/RoBERTa-red?style=for-the-badge)
+![DistilBERT](https://img.shields.io/badge/DistilBERT-green?style=for-the-badge)
+
+**Techniques**
+
+- Token Classification
+- Named Entity Recognition
+- Text Classification
+- Sentiment Analysis
 - TF-IDF
 - Word2Vec
 - FastText
-- Token Classification
-- Text Classification
-- Sentiment Analysis
 
 ---
 
-## Full-Stack Development
+## Frontend Development
 
-### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- React
-- Next.js
-- Tailwind CSS
-- JavaScript
+---
 
-### Backend
+## Backend Development
 
-- Flask
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
 - REST APIs
 - JWT Authentication
 - OAuth
-- CRUD APIs
+- CRUD Operations
 - File Uploads
 - Role-Based Access Control
-- Payment Integration
+- Payment Gateway Integration
 
 ---
 
 ## Databases
 
-- PostgreSQL
-- MongoDB
-- Firebase
-- Supabase
-- SQLite
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite)
 
 ---
 
 ## AI Automation
 
-- n8n
-- Make
-- Gmail Automation
-- WhatsApp Automation
-- Telegram Bots
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge)
+
+Experience building automations with
+
+- Gmail
+- WhatsApp
+- Telegram
 - AI Calling Agents
-- Google Sheets Automation
-- Google Drive Integration
+- Google Sheets
+- Google Drive
 
 ---
 
 ## Cloud & Deployment
 
-- Railway
-- Render
-- Vercel
-- Docker
-- AWS
-- Microsoft Azure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Railway](https://img.shields.io/badge/Railway-000000?style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 
 ---
 
-## Development Tools
+## Tools
 
-- Git
-- GitHub
-- VS Code
-- Linux
-- Docker
-- Cisco Packet Tracer
-- Figma
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
 
 ---
 
 # Featured Projects
 
-### ForeignEdge
+## ForeignEdge
 
-AI-powered study abroad platform featuring:
+**AI-powered Study Abroad Platform**
 
-- Retrieval-Augmented Generation (RAG)
-- Intelligent university recommendations
-- React + Flask architecture
-- PostgreSQL
-- JWT Authentication
-- AI-powered search
-- Responsive user interface
+**Tech Stack:** React • Flask • PostgreSQL • JWT • RAG • LangChain • FAISS
+
+An intelligent platform that assists students in discovering universities through AI-powered recommendations and Retrieval-Augmented Generation.
 
 ---
 
-### Medical Named Entity Recognition
+## Medical Named Entity Recognition
 
-Fine-tuned BERT model capable of extracting:
+**Tech Stack:** Python • BERT • Transformers • NLP
 
-- Diseases
-- Symptoms
-- Drugs
-- Clinical entities
-
-from unstructured medical text.
+Fine-tuned BERT model for extracting diseases, medications, symptoms, and other clinical entities from medical text.
 
 ---
 
-### Plant Disease Detection
+## Plant Disease Detection
 
-Deep learning project comparing
+**Tech Stack:** TensorFlow • CNN • ResNet50 • MobileNetV2 • Grad-CAM
 
-- Custom CNN
-- ResNet50
-- MobileNetV2
-
-including Grad-CAM visualization and Gradio deployment.
+Deep learning system for identifying tomato leaf diseases using multiple neural network architectures.
 
 ---
 
-### Intrusion Detection System
+## Intrusion Detection System
 
-Machine learning based cybersecurity system capable of classifying malicious network traffic using multiple ML algorithms.
+**Tech Stack:** Python • Scikit-Learn • Machine Learning
 
----
-
-### Smart Pet Care System
-
-IoT-enabled monitoring platform providing automated feeding, environmental monitoring, and remote management.
+Cybersecurity system capable of classifying malicious network traffic using machine learning algorithms.
 
 ---
 
-### Additional Projects
+## Smart Pet Care System
 
-- Hospital Management System (C++)
-- Airline Ticket Management System (Java)
-- Smart Home Automation using Cisco Packet Tracer
-- Cipher Encryption Tool
+**Tech Stack:** Flask • IoT • PostgreSQL
+
+IoT-enabled web platform for automated feeding and environmental monitoring.
+
+---
+
+## Cipher Encryption Tool
+
+**Tech Stack:** Python • Cryptography
+
+Desktop application implementing classical cryptographic algorithms for encryption and decryption with an intuitive interface.
+
+---
+
+## Hospital Management System
+
+**Tech Stack:** C++
+
+Console-based hospital management system implementing patient, doctor, appointment, and record management.
+
+---
+
+## Airline Ticket Management System
+
+**Tech Stack:** Java
+
+Desktop application for managing airline reservations, ticket booking, passenger records, and scheduling.
+
+---
+
+## Smart Home Automation
+
+**Tech Stack:** Cisco Packet Tracer
+
+Simulation of a smart home environment with automated lighting, security systems, IoT devices, and network communication.
 
 ---
 
@@ -278,15 +297,11 @@ IoT-enabled monitoring platform providing automated feeding, environmental monit
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=glshrrkhan&theme=github-dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=glshrrkhan&theme=github-dark&hide_border=true"/>
-
 </p>
 
 ---
@@ -295,11 +310,11 @@ IoT-enabled monitoring platform providing automated feeding, environmental monit
 
 - Agentic AI
 - Multi-Agent Systems
-- AI Coding Agents
 - Advanced RAG Architectures
+- AI Coding Agents
 - LLM Evaluation
 - AI Workflow Automation
-- Production AI Systems
+- Production-Ready AI Systems
 
 ---
 
@@ -319,5 +334,5 @@ IoT-enabled monitoring platform providing automated feeding, environmental monit
 
 ---
 
-> Building AI-powered products that combine Machine Learning, LLMs, NLP, RAG, Automation, and Full-Stack Development to solve real-world problems.
+> **"Building intelligent software by combining AI, Machine Learning, LLMs, RAG, Automation, and Full-Stack Development to solve real-world problems."**
 ```
