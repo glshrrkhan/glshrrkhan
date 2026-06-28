@@ -2,7 +2,7 @@
 <h1 align="center">Gul Sher Khan</h1>
 
 <h3 align="center">
-AI/ML Engineer • LLM Engineer • Full-Stack Developer • AI Automation Engineer
+AI/ML Engineer • Web Developer • AI Automation Engineer
 </h3>
 
 <p align="center">
