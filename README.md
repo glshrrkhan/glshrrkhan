@@ -1,79 +1,129 @@
-<h1 align="center">Hi 👋, I'm Gul Sher Khan</h1>
-<h3 align="center">AI/ML Developer • Web Developer • AI Automation Engineer</h3>
+```markdown
+<h1 align="center">Gul Sher Khan</h1>
+
+<h3 align="center">
+AI/ML Engineer • Full-Stack Developer • AI Automation Engineer
+</h3>
 
 <p align="center">
-Building intelligent software solutions through AI, automation, and modern web technologies.
+Building AI-powered applications with Machine Learning, Large Language Models, Retrieval-Augmented Generation (RAG), and modern web technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/glshrrkhan">
+    <img src="https://komarev.com/ghpvc/?username=glshrrkhan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-- 🎓 Software Engineering graduate from the University of Lahore
-- 🔭 Building AI-powered applications and automation workflows
-- 🌱 Exploring Agentic AI, LLMs, and Retrieval-Augmented Generation (RAG)
-- 💡 Passionate about solving real-world problems with AI and full-stack development
-- 👨‍💻 Open to internships and entry-level roles in AI/ML, Software Engineering, and Full-Stack Development
+Software Engineering graduate from the **University of Lahore** with a strong interest in Artificial Intelligence, Machine Learning, Large Language Models, and Full-Stack Development.
+
+I enjoy building AI-powered applications, automation workflows, and intelligent web platforms using modern technologies including **Python, React, Flask, PostgreSQL, and LLMs**. My interests include **Agentic AI, Retrieval-Augmented Generation (RAG), NLP, and AI Automation**.
+
+I am currently seeking **internships** and **entry-level opportunities** in **AI/ML**, **Software Engineering**, and **Full-Stack Development**.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-### 🤖 AI / ML / NLP
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFD21E?style=for-the-badge)
-![BERT](https://img.shields.io/badge/BERT-NLP-blue?style=for-the-badge)
-
-### 🌐 Full-Stack Development
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### ⚡ AI Automation
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+### AI / Machine Learning
 
-### 💾 Databases
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-NLP-blue?style=for-the-badge)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🧰 Tools & Platforms
+### AI Automation
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 
-### 🧑‍💻 Skill Icons
-![My Skills](https://skillicons.dev/icons?i=python,react,flask,js,tailwind,postgres,sqlite,git,github,vscode)
-
----
-
-## 🌟 Featured Projects
-
-### [🎓 ForeignEdge](https://github.com/glshrrkhan/ForeignEdge)
-AI-powered study abroad platform built with React, Flask, JWT authentication, and PostgreSQL, featuring RAG-based university recommendations.
-
-### [🏥 Medical Named Entity Recognition](https://github.com/glshrrkhan/Medical_NER-NLP-)
-Fine-tuned BERT model that extracts medical entities (diseases, drugs, symptoms) from clinical text.
-
-### [🛡 Intrusion Detection System](https://github.com/glshrrkhan/Intrusion-Detection-System)
-Machine learning system that detects malicious network traffic and classifies attack types.
-
-### [🐾 Smart Pet Care System](https://github.com/glshrrkhan/Smart-Pet-Care-System)
-IoT-enabled web application for automated feeding and environmental monitoring.
-
-### [🌿 Plant Disease Detection](https://github.com/glshrrkhan/Plant-Disease-Detection)
-Deep learning project comparing a custom CNN against ResNet50 and MobileNetV2 for tomato leaf disease classification, with Grad-CAM interpretability and a Gradio demo.
+<p>
+<img src="https://skillicons.dev/icons?i=python,react,flask,js,tailwind,postgres,sqlite,git,github,vscode" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gul-sher-khan-0119aa264/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glshrrkhan@gmail.com)
+| Project | Description |
+|----------|-------------|
+| **[ForeignEdge](https://github.com/glshrrkhan/ForeignEdge)** | AI-powered study abroad platform built with React, Flask, PostgreSQL, JWT authentication, and Retrieval-Augmented Generation (RAG) for intelligent university recommendations. |
+| **[Medical Named Entity Recognition](https://github.com/glshrrkhan/Medical_NER-NLP-)** | Fine-tuned BERT model for extracting diseases, drugs, and symptoms from clinical text. |
+| **[Intrusion Detection System](https://github.com/glshrrkhan/Intrusion-Detection-System)** | Machine learning model for detecting malicious network traffic and classifying cyber attacks. |
+| **[Plant Disease Detection](https://github.com/glshrrkhan/Plant-Disease-Detection)** | Deep learning comparison of CNN, ResNet50, and MobileNetV2 with Grad-CAM explainability and Gradio deployment. |
+| **[Smart Pet Care System](https://github.com/glshrrkhan/Smart-Pet-Care-System)** | IoT-enabled web application for automated pet feeding and environmental monitoring. |
 
 ---
 
-⭐️ *Open to internships and entry-level opportunities — feel free to reach out!*
+## GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=glshrrkhan&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glshrrkhan&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=glshrrkhan&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=glshrrkhan&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/gul-sher-khan-0119aa264/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:glshrrkhan@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+Building intelligent software through Artificial Intelligence, Machine Learning, and modern web technologies.
+
+Always open to collaborating on impactful projects and exciting opportunities.
+```
